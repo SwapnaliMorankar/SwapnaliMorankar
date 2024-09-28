@@ -31,4 +31,4 @@ I am currently looking for Full Stack Development opportunities to work on excit
 
 ## 📫 Let's Connect
 LinkedIn: [Connect with me](https://www.linkedin.com/in/swapnali-morankar-524616219/)   
-Email: [Email me](snmorankar210603@gmail.com)
+Email: [Email me](mailto:snmorankar210603@gmail.com)

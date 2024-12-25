@@ -17,12 +17,14 @@ Welcome to my GitHub profile.
 🛠️ Version Control: Git | GitHub   
 
 ## 📚 Projects
-🔥 Explore some of my exciting projects in the repositories below.   
+🔥 Explore some of my exciting projects in the repositories below.
+[REST_APIs in Spring](https://github.com/SwapnaliMorankar/REST_APIs-in-Spring)
+[Portfolio Website in React.js](https://swapnaliportfolio.netlify.app/)
 [Spring MVC with Spring ORM Mini Project](https://github.com/SwapnaliMorankar/SpringMVC-ORM_MiniProject)   
 [Spring MVC Mini Project](https://github.com/SwapnaliMorankar/SpringMVC_MiniProject)   
 [Online Book Store - Spring JDBC with Spring Core](https://github.com/SwapnaliMorankar/OnlineBookStore_SpringJDBC)  
 [Agroforecast - React.js/ Javascript Project](https://github.com/SwapnaliMorankar/AgroForecast)   
-[Edurec,in - React.js, Javascript, smtp.js, chatbot](https://edurec.in/)    
+[Edurec.in - React.js, Javascript, smtp.js, chatbot](https://edurec.in/)    
 [Advitiya - JSP, Servlets, JDBC](https://github.com/SwapnaliMorankar/Adivitya_Rural_Education)   
 [7th Gaming - Frontend Project](https://github.com/SwapnaliMorankar/7th-gaming)       
 

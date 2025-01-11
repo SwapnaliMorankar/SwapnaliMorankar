@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/cc76d66a-d6c7-4e2f-a80e-1ba8820e3741)## 👋 Hi, I'm Swapnali! 
+## 👋 Hi, I'm Swapnali! 
 Welcome to my GitHub profile. 
 
 ## ✨ About Me:
